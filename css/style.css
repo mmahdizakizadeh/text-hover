@@ -37,7 +37,7 @@ margin-top: 10%;
   overflow: hidden;
   -webkit-text-stroke: 2px white;
   color: #91c3d8;
-  transition: width 0.5s ease;
+  transition: width 1s ease;
 }
 
 .liquid-text:hover::before {
