@@ -36,7 +36,7 @@ div {
     white-space: nowrap;
     overflow: hidden;
     -webkit-text-stroke: 2px white;
-    color: rgb(30, 106, 122))))
+    color: rgb(30, 106, 122);
     transition: width 1s ease;
 }
 
