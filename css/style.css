@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: darkslategray;
+    background-color: hwb(180 54% 35%);
 }
 
 div {
@@ -36,7 +36,7 @@ div {
     white-space: nowrap;
     overflow: hidden;
     -webkit-text-stroke: 2px white;
-    color: #91c3d8;
+    color: #0b85b8;
     transition: width 1s ease;
 }
 
